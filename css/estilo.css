@@ -1,4 +1,4 @@
-@import url('httpd://fonts.googleapis.com/css2?family=Bebas=Neus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 * {
     margin: 0;
@@ -127,6 +127,12 @@ h1 {
 
 .mouse {
     width: 80px;
+}
+
+.sobre-projetos {
+    background-color: #080324;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .sobre-projetos h2 {
