@@ -233,7 +233,8 @@ h1 {
 .texto-endereco p {
     width: 400px;
     font-size: 20px;
-}
+} 
+
 
 .container-mapa {
     position: relative;
@@ -243,7 +244,7 @@ h1 {
 }
 
 .mapa-responsivo {
-    position: absolute;
+    position: relative;
     margin-top: 10px;
     top: 0;
     left: 0;
@@ -254,6 +255,13 @@ h1 {
 }
 
 .container-video {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 30%;
+}
+
+.video-responsivo {
     position: absolute;
     margin-top: 10px;
     top: 0;
